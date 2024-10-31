@@ -5,6 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This flutter project aims at providing user friendly app occupied with embedded boards that can give you accurate data on real time in mobile app
+With enhanced AI feature to predict disease and analyse the crop for the feild . 
 
 A few resources to get you started if this is your first Flutter project:
 
